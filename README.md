@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Shamshunnisa-DA
+- 👋 Hi, I’m @Shamshunnisa Makam
 - 👀 I’m interested in building something new
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on Java Projects
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on Python Projects
 - 📫 How to reach me through my mail
 - 😄 Pronouns: She
 - ⚡ Fun fact: Until you are ot successful you are fun for others.
